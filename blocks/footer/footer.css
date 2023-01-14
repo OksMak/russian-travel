@@ -2,3 +2,15 @@
   margin: 0;
   padding: 0 3.75% 24px;
 }
+
+@media screen and (max-width: 768px) {
+  .footer {
+    padding: 0 3.125% 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    padding: 0 36.875% 24px 5%;
+  }
+}
