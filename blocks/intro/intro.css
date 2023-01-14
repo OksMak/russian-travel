@@ -2,3 +2,21 @@
   margin: 0;
   padding: 0 34.5% 92px 11.6%;
 }
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    padding: 0 27.9% 92px 4.69%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    padding: 0 3.125% 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro {
+    padding: 0 5% 64px;
+  }
+}
