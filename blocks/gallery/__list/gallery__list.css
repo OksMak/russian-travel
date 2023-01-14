@@ -27,6 +27,7 @@
   .gallery__list {
     grid-template-rows: repeat(12, 216px);
     grid-template-columns: 288px;
-    gap: 12px;
+    column-gap: 12px;
+    margin: 0 16px 0;
   }
 }
