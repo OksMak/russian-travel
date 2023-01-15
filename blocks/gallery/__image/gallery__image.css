@@ -6,10 +6,3 @@
 .gallery__image:hover {
   transform: scale(1.1);
 }
-
-
-@media screen and (max-width: 768px) {
-  .gallery__image:hover {
-    transform: none;
-  }
-}
