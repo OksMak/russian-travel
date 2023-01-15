@@ -1,10 +1,1 @@
-.footer__navigation {
-  display: flex;
-  justify-content: space-between;
-}
 
-@media screen and (max-width: 320px) {
-  .footer__navigation {
-    flex-direction: column;
-  }
-}

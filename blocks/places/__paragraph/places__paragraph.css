@@ -24,13 +24,12 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 640px) {
   .places__paragraph {
-    margin: 0 5% 25px;
-    font-size: 16px;
+    margin: 0 16px 25px;
   }
 
   .places__paragraph:last-child {
-    margin: 0 5%;
+    margin: 0 16px;
   }
 }

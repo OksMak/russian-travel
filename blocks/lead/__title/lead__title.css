@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
-  line-height: 100px;
+  line-height: 1.04;
   text-align: center;
   color: #FFFFFF;
 }
@@ -17,8 +17,17 @@
 @media screen and (max-width: 768px) {
   .lead__title {
     margin: 0 3.125% 32px;
+    font-size: 64px;
   }
 }
+
+@media screen and (max-width: 640px) {
+  .lead__title {
+    margin: 0 3.125% 32px;
+    font-size: 54px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .lead__title {
     margin: 0 4.375% 16px 5.625%;

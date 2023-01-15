@@ -1,6 +1,10 @@
 .lead {
   margin: 0;
   padding: 0 11.6% 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
