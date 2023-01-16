@@ -7,7 +7,6 @@
 * способе построения сеток при помощи технологии - ”Grid Layout“ (или "гридах") и "Flexbox";
 * разработке интерфейса для разных устройств (адаптивности сайта).
 
-## Ссылки на проект:
+## Ссылка на проект:
 
-* [ссылка на проект на GitHub] (https://github.com/OksMak/russian-travel);
-* [ссылка на проект на GitHub Pages] (https://oksmak.github.io/russian-travel/).
+[Путешествия по России] (https://oksmak.github.io/russian-travel/).
