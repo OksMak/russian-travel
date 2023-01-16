@@ -9,4 +9,4 @@
 
 ## Ссылка на проект:
 
-[Путешествия по России] (https://oksmak.github.io/russian-travel/).
+[Путешествия по России](https://oksmak.github.io/russian-travel/).
