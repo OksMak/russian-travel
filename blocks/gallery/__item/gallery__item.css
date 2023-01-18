@@ -1,0 +1,17 @@
+@media screen and (max-width: 1024px) {
+  .gallery__item {
+    max-height: 225px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .gallery__item {
+    max-height: 264px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .gallery__item {
+    max-height: 216px;
+  }
+}

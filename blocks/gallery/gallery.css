@@ -3,6 +3,12 @@
   padding: 0 3.75% 92px;
 }
 
+@media screen and (max-width: 1024px) {
+  .gallery {
+    padding: 0 4.7% 92px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .gallery {
     padding: 0 3.125% 88px;

@@ -6,6 +6,7 @@
   color: #FFFFFF;
   text-decoration: none;
   transition: opacity .5s ease;
+  display: inline-block;
 }
 
 .footer__link:hover {
